@@ -1,0 +1,24 @@
+{
+  "name": "MapMetaData",
+  "2D": true,
+  "3D": false,
+  "platform": "HTML",
+  "version": "1.0.0",
+  "wabVersion": "2.17",
+  "author": "Joel Hempenius",
+  "description": "A Widget that shows the description and use constraints of the map",
+  "copyright": "Joel Hempenius",
+  "license": "ISC",
+  "properties": {
+    "inPanel": true,
+    "hasLocale": true,
+    "hasStyle": true,
+    "hasConfig": true,
+    "hasUIFile": true,
+    "hasSettingPage": true,
+    "hasSettingUIFile": true,
+    "hasSettingLocale": true,
+    "hasSettingStyle": true,
+    "IsController": false
+  }
+}
