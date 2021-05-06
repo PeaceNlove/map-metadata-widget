@@ -6,7 +6,7 @@
   "version": "1.0.0",
   "wabVersion": "2.17",
   "author": "Joel Hempenius",
-  "description": "A Widget that shows the description and use constraints of the map",
+  "description": "A widget that shows the description and use constraints of the map",
   "copyright": "Joel Hempenius",
   "license": "ISC",
   "properties": {

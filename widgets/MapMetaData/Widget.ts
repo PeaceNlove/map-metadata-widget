@@ -44,7 +44,7 @@ class Widget implements IWidget {
     if (this.appConfig.map && this.appConfig.map.itemId){
       let portal = new Portal( this.appConfig.portalUrl);
       var params = {
-        q:'(' + this.appConfig.map.itemId + ')',
+        q:'(' + this.appConfig.map.itemId + ')', //query by id
         num:1
       };
       //try to get the map without credentials

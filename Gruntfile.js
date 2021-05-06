@@ -5,7 +5,7 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-contrib-copy');
     grunt.loadNpmTasks('grunt-contrib-clean');
     grunt.loadNpmTasks('grunt-ts');
-    var appDir = 'C:/Data/ArcGIS/arcgis-web-appbuilder-2.19/ArcGISWebAppBuilder/server/apps/3';
+    var appDir = 'C:/Data/ArcGIS/arcgis-web-appbuilder-2.19/ArcGISWebAppBuilder/server/apps/2';
     var stemappDir = 'C:/Data/ArcGIS/arcgis-web-appbuilder-2.19/ArcGISWebAppBuilder/client/stemapp';
     grunt.initConfig({
         sync: {
